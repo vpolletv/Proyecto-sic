@@ -1,5 +1,7 @@
 # Proyecto-sic
+
 https://proyecto-sic-zfjsemh55f2svduasz6gcv.streamlit.app/#simulador-simple-de-caso-para-capacitacion
+
 🎯 Pregunta de Análisis
 ¿Cuáles son los principales detonantes de frustración en clientes y cómo pueden utilizarse para diseñar escenarios de entrenamiento para agentes de soporte?
 
